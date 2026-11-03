@@ -1,1 +1,1 @@
-print("Moisés guedes de negreiros junior")
+print("Moisés guedes")
